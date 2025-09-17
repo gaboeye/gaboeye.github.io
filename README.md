@@ -1,3 +1,1 @@
-# gaboeye.github.io aaaaaaa
-
-olá i love siam pussy
+<link rel="stylesheet" href="css/pico.min.css">
